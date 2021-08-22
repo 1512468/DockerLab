@@ -1,0 +1,19 @@
+docker container ps 
+    - check all container run on system 
+docker-compose ps 
+    - list container run by system
+docker-compose up -d 
+    - run docker with background detech mode 
+docker-compose stop 
+
+docker-compose config
+
+ docker volume ls
+
+ docker inspect  volume  <volume_name>
+
+ docker container exec -it <id/ container_name>
+
+ * delete docker compose 
+    - first step : stop compose
+    - delete component : docker-compose  rm 

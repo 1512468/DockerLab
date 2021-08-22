@@ -1,0 +1,15 @@
+Docker container Orchestrations
+Deploy docker on enviroment production
+# Feature 
+    - container_deploy
+    - scheduler 
+    - scalling 
+    - networking 
+    - service discovery 
+    - resource allocation 
+    - check heathy 
+
+#Tool
+- Docker swarm 
+- Apache mesos 
+- Apache Kubernetor
